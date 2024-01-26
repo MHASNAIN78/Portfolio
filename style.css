@@ -1,0 +1,87 @@
+body{
+    background-color: black;
+    
+
+}
+*{
+
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+nav p{
+    font-size: 30px;
+    float: left;
+    margin-top: 4%;
+    margin-left: 0%;
+}
+
+nav{
+    width: 100%;
+    height: 75%;
+    line-height: 75%;
+    padding: 0px 100px;
+    position: fixed;
+
+}
+
+#Portfolio{
+    color: rgb(0, 255, 255);
+    margin-left: 30px;
+    font-size: 220%;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+nav ul li{
+    text-align: right;
+    color: aliceblue;
+    list-style: none;
+    display: inline-block;
+    float: right;
+    margin-top: 40%;
+    
+}
+a{
+    float: right;
+    margin-top: -0.1%;
+}
+nav li{
+    word-spacing: 10;
+    font-size: large;
+    padding: 0px 30px;
+    text-decoration: none;
+}
+
+p{
+    color: aliceblue;
+}
+.a{
+    font-size: 100%;
+
+}
+#name h2{
+color: aliceblue;
+margin-top: 50px;
+font-size: 200%;
+}
+div #developer{
+    color: rgb(6, 112, 112);
+    margin-top: 45px;
+    font-size: 350%;
+}
+div p{
+    color: aliceblue;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif ;
+    font-size: small;
+    margin-top: 14%;
+    margin-left: 8%;
+    position: fixed;
+}
+
+img{
+    height: 650px;
+    width: 550px;
+   
+    margin-left: 60%;
+    margin-top: -18%;
+    
+}
